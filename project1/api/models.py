@@ -21,3 +21,5 @@ class PortfolioModel(models.Model):
 class StockModel(models.Model):
     class Meta:
         app_label = 'api'
+
+        # some random comment

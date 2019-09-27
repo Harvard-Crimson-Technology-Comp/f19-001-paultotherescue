@@ -2,7 +2,7 @@
 
 Question 1. What is Django?
 
-# TODO
+Paul is gonna answer this .
 
 Question 2. What is GraphQL?
 
