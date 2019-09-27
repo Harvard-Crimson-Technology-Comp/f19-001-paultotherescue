@@ -23,3 +23,4 @@ class StockModel(models.Model):
         app_label = 'api'
 
         # some random comment
+        # another change

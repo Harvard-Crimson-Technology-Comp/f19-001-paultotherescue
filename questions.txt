@@ -6,15 +6,15 @@ Paul is gonna answer this .
 
 Question 2. What is GraphQL?
 
-# TODO
+Some Interface
 
 Question 3. How does Django "talk" to GraphQL?
 
-# TODO
+Through data 
 
 Question 4. Why do we use GraphQL + Django?
 
-# TODO
+lpok
 
 Question 5. What is a Web API?
 
